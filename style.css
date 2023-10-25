@@ -1,0 +1,14 @@
+header {
+    width: 500px; height: 100px; position: relative; margin: 0 auto;
+}
+
+p {
+    color: black;
+    text-align: center;
+  }
+
+  h1 {
+    width: 500px; height: 100px; position: relative; margin: 0 auto;
+  }
+  body { font-family: Georgia, 'Times New Roman', Times, serif;
+  }
